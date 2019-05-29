@@ -1,0 +1,209 @@
+{
+    "type": "FeatureCollection",
+    "query": ["manchester", "england"],
+    "features": [{
+        "id": "place.7517556505078831",
+        "type": "Feature",
+        "place_type": ["place"],
+        "relevance": 1,
+        "properties": {
+            "wikidata": "Q18125"
+        },
+        "text": "Manchester",
+        "place_name": "Manchester, Greater Manchester, England, United Kingdom",
+        "bbox": [-2.52355, 53.348612, -2.087698, 53.586199],
+        "center": [-2.23333, 53.46667],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-2.23333, 53.46667]
+        },
+        "context": [{
+            "id": "district.17762686179496730",
+            "wikidata": "Q23099",
+            "text": "Greater Manchester"
+        }, {
+            "id": "region.11773787231453920",
+            "short_code": "GB-ENG",
+            "wikidata": "Q21",
+            "text": "England"
+        }, {
+            "id": "country.8605848117814600",
+            "short_code": "gb",
+            "wikidata": "Q145",
+            "text": "United Kingdom"
+        }]
+    }, {
+        "id": "locality.8368169018641800",
+        "type": "Feature",
+        "place_type": ["locality"],
+        "relevance": 1,
+        "properties": {
+            "wikidata": "Q18125"
+        },
+        "text": "Manchester",
+        "place_name": "Manchester, Manchester, Greater Manchester, England, United Kingdom",
+        "bbox": [-2.3002002262622, 53.4006905097144, -2.14682886321058, 53.5239404571874],
+        "center": [-2.2441, 53.4791],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-2.2441, 53.4791]
+        },
+        "context": [{
+            "id": "place.7517556505078831",
+            "wikidata": "Q18125",
+            "text": "Manchester"
+        }, {
+            "id": "district.17762686179496730",
+            "wikidata": "Q23099",
+            "text": "Greater Manchester"
+        }, {
+            "id": "region.11773787231453920",
+            "short_code": "GB-ENG",
+            "wikidata": "Q21",
+            "text": "England"
+        }, {
+            "id": "country.8605848117814600",
+            "short_code": "gb",
+            "wikidata": "Q145",
+            "text": "United Kingdom"
+        }]
+    }, {
+        "id": "poi.2714419357734",
+        "type": "Feature",
+        "place_type": ["poi"],
+        "relevance": 1,
+        "properties": {
+            "landmark": true,
+            "wikidata": "Q3360751",
+            "address": "Oxford St.",
+            "category": "theatre, theater, music, show venue, concert, concert hall"
+        },
+        "text": "Palace Theatre",
+        "place_name": "Palace Theatre, Oxford St., Manchester, England M1 6FT, United Kingdom",
+        "matching_text": "Manchester",
+        "matching_place_name": "Manchester, Oxford St., Manchester, England M1 6FT, United Kingdom",
+        "center": [-2.2409425, 53.4749715],
+        "geometry": {
+            "coordinates": [-2.2409425, 53.4749715],
+            "type": "Point"
+        },
+        "context": [{
+            "id": "postcode.7192258147696800",
+            "text": "M1 6FT"
+        }, {
+            "id": "locality.8368169018641800",
+            "wikidata": "Q18125",
+            "text": "Manchester"
+        }, {
+            "id": "place.7517556505078831",
+            "wikidata": "Q18125",
+            "text": "Manchester"
+        }, {
+            "id": "district.17762686179496730",
+            "wikidata": "Q23099",
+            "text": "Greater Manchester"
+        }, {
+            "id": "region.11773787231453920",
+            "short_code": "GB-ENG",
+            "wikidata": "Q21",
+            "text": "England"
+        }, {
+            "id": "country.8605848117814600",
+            "short_code": "gb",
+            "wikidata": "Q145",
+            "text": "United Kingdom"
+        }]
+    }, {
+        "id": "poi.2997887257861",
+        "type": "Feature",
+        "place_type": ["poi"],
+        "relevance": 1,
+        "properties": {
+            "landmark": true,
+            "address": "Birchall Way, Hulme",
+            "category": "automotive dealer, automotive dealership, automotive sales, auto dealer,  auto dealership, auto sales, car dealer, car dealership, car sales, dealership, shop, automotive leasing, leasing, automotive sales"
+        },
+        "text": "Williams Land Rover",
+        "place_name": "Williams Land Rover, Birchall Way, Hulme, Manchester, England M15 6DU, United Kingdom",
+        "matching_text": "Manchester",
+        "matching_place_name": "Manchester, Birchall Way, Hulme, Manchester, England M15 6DU, United Kingdom",
+        "center": [-2.243948, 53.465551],
+        "geometry": {
+            "coordinates": [-2.243948, 53.465551],
+            "type": "Point"
+        },
+        "context": [{
+            "id": "postcode.3691263175807200",
+            "text": "M15 6DU"
+        }, {
+            "id": "locality.8368169018641800",
+            "wikidata": "Q18125",
+            "text": "Manchester"
+        }, {
+            "id": "place.7517556505078831",
+            "wikidata": "Q18125",
+            "text": "Manchester"
+        }, {
+            "id": "district.17762686179496730",
+            "wikidata": "Q23099",
+            "text": "Greater Manchester"
+        }, {
+            "id": "region.11773787231453920",
+            "short_code": "GB-ENG",
+            "wikidata": "Q21",
+            "text": "England"
+        }, {
+            "id": "country.8605848117814600",
+            "short_code": "gb",
+            "wikidata": "Q145",
+            "text": "United Kingdom"
+        }]
+    }, {
+        "id": "poi.2293512537372",
+        "type": "Feature",
+        "place_type": ["poi"],
+        "relevance": 1,
+        "properties": {
+            "landmark": true,
+            "wikidata": "Q6483196",
+            "address": "71 Whitworth St",
+            "category": "business, service, building"
+        },
+        "text": "Lancaster House",
+        "place_name": "Lancaster House, 71 Whitworth St, Manchester, England M1 6LQ, United Kingdom",
+        "matching_text": "Manchester",
+        "matching_place_name": "Manchester, 71 Whitworth St, Manchester, England M1 6LQ, United Kingdom",
+        "center": [-2.2384995, 53.475241499999996],
+        "geometry": {
+            "coordinates": [-2.2384995, 53.475241499999996],
+            "type": "Point"
+        },
+        "context": [{
+            "id": "postcode.2097454405817660",
+            "text": "M1 6LQ"
+        }, {
+            "id": "locality.8368169018641800",
+            "wikidata": "Q18125",
+            "text": "Manchester"
+        }, {
+            "id": "place.7517556505078831",
+            "wikidata": "Q18125",
+            "text": "Manchester"
+        }, {
+            "id": "district.17762686179496730",
+            "wikidata": "Q23099",
+            "text": "Greater Manchester"
+        }, {
+            "id": "region.11773787231453920",
+            "short_code": "GB-ENG",
+            "wikidata": "Q21",
+            "text": "England"
+        }, {
+            "id": "country.8605848117814600",
+            "short_code": "gb",
+            "wikidata": "Q145",
+            "text": "United Kingdom"
+        }]
+    }],
+    "attribution": "NOTICE: © 2019 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained. POI(s) provided by Foursquare."
+}
